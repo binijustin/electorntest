@@ -1,0 +1,14 @@
+{
+  "name": "spservice",
+  "version": "1.0.0",
+  "description": "sharepoint service for radixo ne",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Justin Randelle Gallardo",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.3"
+  }
+}
